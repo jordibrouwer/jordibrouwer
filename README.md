@@ -1,7 +1,6 @@
 # Hi, I'm Jordi Brouwer 👋
 
-I'm an enthusiastic hobbyist from Leiden (NL) who loves tinkering with tech. With a strong focus on **automation**, self‑hosting, and practical solutions, just for fun..  
-I enjoy working on projects where infrastructure, scripting, and home automation come together – and I combine that with a strong passion for aerial photography. Most of what you'll find here are small experiments, random ideas, and tools I built to make things a bit easier (or just because I can 😄).
+I'm an enthusiastic hobbyist from Leiden (NL) who loves tinkering with tech. With a strong focus on **automation**, self‑hosting, and practical solutions, just for fun.. I enjoy working on projects where infrastructure, scripting, and home automation come together – and I combine that with a strong passion for aerial photography. Most of what you'll find here are small experiments, random ideas, and tools I built to make things a bit easier (or just because I can 😄).
 
 ---
 
