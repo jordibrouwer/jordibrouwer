@@ -16,7 +16,7 @@ I enjoy working on projects where infrastructure, scripting, and home automation
 
 ## Luchtlens – A different perspective
 
-Besides my work in IT, I run **Luchtlens**, a personal project where I combine my love for drones and photography. 
+Besides my work with computers, I run, for fun, **Luchtlens**, a personal project where I combine my love for drones and photography. 
 With Luchtlens, I capture Leiden and its surroundings from above, showing familiar places from a completely new perspective – from historic city centers and churches to parks, infrastructure and local landmarks. 
 
 - 🌍 Focus on Leiden and the Leiden region, with occasional flights elsewhere in the Netherlands. 
