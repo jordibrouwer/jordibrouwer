@@ -1,6 +1,6 @@
 # Hi, I'm Jordi Brouwer 👋
 
-I'm an IT professional from Leiden (NL) with a strong focus on **automation**, self‑hosting, and practical solutions.  
+I'm an enthusiastic hobbyist from Leiden (NL) with a strong focus on **automation**, self‑hosting, and practical solutions.  
 I enjoy working on projects where infrastructure, scripting, and home automation come together – and I combine that with a strong passion for aerial photography. [web:31][web:36]
 
 ---
