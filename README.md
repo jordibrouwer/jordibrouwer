@@ -1,7 +1,7 @@
 # Hi, I'm Jordi Brouwer 👋
 
 I'm an enthusiastic hobbyist from Leiden (NL) with a strong focus on **automation**, self‑hosting, and practical solutions.  
-I enjoy working on projects where infrastructure, scripting, and home automation come together – and I combine that with a strong passion for aerial photography. [web:31][web:36]
+I enjoy working on projects where infrastructure, scripting, and home automation come together – and I combine that with a strong passion for aerial photography.
 
 ---
 
@@ -16,14 +16,14 @@ I enjoy working on projects where infrastructure, scripting, and home automation
 
 ## Luchtlens – A different perspective
 
-Besides my work in IT, I run **Luchtlens**, a personal project where I combine my love for drones and photography. [web:31][web:36]  
-With Luchtlens, I capture Leiden and its surroundings from above, showing familiar places from a completely new perspective – from historic city centers and churches to parks, infrastructure and local landmarks. [web:31][web:39][web:43]
+Besides my work in IT, I run **Luchtlens**, a personal project where I combine my love for drones and photography. 
+With Luchtlens, I capture Leiden and its surroundings from above, showing familiar places from a completely new perspective – from historic city centers and churches to parks, infrastructure and local landmarks. 
 
-- 🌍 Focus on Leiden and the Leiden region, with occasional flights elsewhere in the Netherlands. [web:31][web:39]  
-- 🚁 Flying with modern camera drones to create high‑resolution photos, panoramas and short videos. [web:31][web:39]  
-- 🎯 Goal: capturing places, moments and stories that you only truly see once you go up in the air. [web:36][web:39][web:43]  
+- 🌍 Focus on Leiden and the Leiden region, with occasional flights elsewhere in the Netherlands. 
+- 🚁 Flying with modern camera drones to create high‑resolution photos, panoramas and short videos.   
+- 🎯 Goal: capturing places, moments and stories that you only truly see once you go up in the air.   
 
-🔗 Check out my work at **[luchtlens.nl](https://www.luchtlens.nl)**. [web:31]
+🔗 Check out my work at **[luchtlens.nl](https://www.luchtlens.nl)**. 
 
 ---
 
@@ -32,7 +32,7 @@ With Luchtlens, I capture Leiden and its surroundings from above, showing famili
 - 🔧 Maintaining and expanding my self‑hosted environment (UnRaid, Docker containers, backups).
 - 🏠 Automating my home with Home Assistant and Ubiquiti networking gear.
 - 🤖 Experimenting with AI tools and API integrations to streamline daily workflows.
-- 📸 Building a growing collection of aerial photos and stories on Luchtlens, especially around Leiden. [web:31][web:39]
+- 📸 Building a growing collection of aerial photos and stories on Luchtlens, especially around Leiden. 
 
 ---
 
@@ -50,7 +50,7 @@ With Luchtlens, I capture Leiden and its surroundings from above, showing famili
 - Self‑hosted infrastructure and private cloud solutions  
 - Smart home setups and sensor data  
 - Efficient workflows using AI and automation  
-- Photography (street & nature) and aerial / drone imagery [web:31][web:36]  
+- Photography (street & nature) and aerial / drone imagery 
 
 ---
 
@@ -58,6 +58,6 @@ With Luchtlens, I capture Leiden and its surroundings from above, showing famili
 
 - 🌍 Location: Leiden, The Netherlands  
 - 💻 GitHub: [github.com/jordibrouwer](https://github.com/jordibrouwer)  
-- 📷 Aerial photography: [luchtlens.nl](https://www.luchtlens.nl) [web:31][web:36]  
+- 📷 Aerial photography: [luchtlens.nl](https://www.luchtlens.nl)  
 
 Feel free to open an issue or reach out if something here interests you or if you have ideas for collaboration.
