@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Jordi Brouwer 👋
 
-<!--
-**jordibrouwer/jordibrouwer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT professional from Leiden (NL) with a strong focus on **automation**, self‑hosting, and practical solutions.  
+I enjoy working on projects where infrastructure, scripting, and home automation come together – and I combine that with a strong passion for aerial photography. [web:31][web:36]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- 🧑‍💻 Extensive experience with programming (Python, Coldfusion).
+- 🖥️ Actively working with server management, UnRaid, Docker, and self‑hosted services.
+- 🌐 Interested in networking, automation, and system integrations.
+- 📍 Based in Leiden, South Holland, The Netherlands.
+
+---
+
+## Luchtlens – A different perspective
+
+Besides my work in IT, I run **Luchtlens**, a personal project where I combine my love for drones and photography. [web:31][web:36]  
+With Luchtlens, I capture Leiden and its surroundings from above, showing familiar places from a completely new perspective – from historic city centers and churches to parks, infrastructure and local landmarks. [web:31][web:39][web:43]
+
+- 🌍 Focus on Leiden and the Leiden region, with occasional flights elsewhere in the Netherlands. [web:31][web:39]  
+- 🚁 Flying with modern camera drones to create high‑resolution photos, panoramas and short videos. [web:31][web:39]  
+- 🎯 Goal: capturing places, moments and stories that you only truly see once you go up in the air. [web:36][web:39][web:43]  
+
+🔗 Check out my work at **[luchtlens.nl](https://www.luchtlens.nl)**. [web:31]
+
+---
+
+## What I'm currently working on
+
+- 🔧 Maintaining and expanding my self‑hosted environment (UnRaid, Docker containers, backups).
+- 🏠 Automating my home with Home Assistant and Ubiquiti networking gear.
+- 🤖 Experimenting with AI tools and API integrations to streamline daily workflows.
+- 📸 Building a growing collection of aerial photos and stories on Luchtlens, especially around Leiden. [web:31][web:39]
+
+---
+
+## Technologies & tools
+
+- 💻 **Languages**: Python, Bash/shell, SQL  
+- 🐳 **Infra & hosting**: Docker, UnRaid, Linux, self‑hosted services  
+- 🌐 **Networking & home automation**: Ubiquiti, Home Assistant  
+- 🛠️ **Other**: API integrations, automation scripts, monitoring and logging  
+
+---
+
+## Areas of interest
+
+- Self‑hosted infrastructure and private cloud solutions  
+- Smart home setups and sensor data  
+- Efficient workflows using AI and automation  
+- Photography (street & nature) and aerial / drone imagery [web:31][web:36]  
+
+---
+
+## Find me
+
+- 🌍 Location: Leiden, The Netherlands  
+- 💻 GitHub: [github.com/jordibrouwer](https://github.com/jordibrouwer)  
+- 📷 Aerial photography: [luchtlens.nl](https://www.luchtlens.nl) [web:31][web:36]  
+
+Feel free to open an issue or reach out if something here interests you or if you have ideas for collaboration.
