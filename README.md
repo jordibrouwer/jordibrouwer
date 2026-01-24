@@ -9,7 +9,7 @@ I enjoy working on projects where infrastructure, scripting, and home automation
 
 - 🧑‍💻 Extensive experience with programming (Python, Coldfusion).
 - 🖥️ Actively working with server management, UnRaid, Docker, and self‑hosted services.
-- 🌐 Interested in networking, automation, and system integrations.
+- 🌐 Interested in linux, networking, automation, and system integrations.
 - 📍 Based in Leiden, South Holland, The Netherlands.
 
 ---
