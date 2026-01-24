@@ -1,13 +1,13 @@
 # Hi, I'm Jordi Brouwer 👋
 
-I'm an enthusiastic hobbyist from Leiden (NL) with a strong focus on **automation**, self‑hosting, and practical solutions.  
-I enjoy working on projects where infrastructure, scripting, and home automation come together – and I combine that with a strong passion for aerial photography.
+I'm an enthusiastic hobbyist from Leiden (NL) who loves tinkering with tech. With a strong focus on **automation**, self‑hosting, and practical solutions, just for fun..  
+I enjoy working on projects where infrastructure, scripting, and home automation come together – and I combine that with a strong passion for aerial photography. Most of what you'll find here are small experiments, random ideas, and tools I built to make things a bit easier (or just because I can 😄).
 
 ---
 
 ## About me
 
-- 🧑‍💻 Extensive experience with programming (Python, Coldfusion, ASP, PHP).
+- 🧑‍💻 Extensive experience with programming (Python, Coldfusion, ASP).
 - 🖥️ Actively working with server management, UnRaid, Docker, and self‑hosted services.
 - 🌐 Interested in linux, networking, automation, and system integrations.
 - 📍 Based in Leiden, South Holland, The Netherlands.
