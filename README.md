@@ -55,7 +55,8 @@ With Luchtlens, I capture Leiden and its surroundings from above, showing famili
 
 ## Find me
 
-- 🌍 Location: Leiden, The Netherlands  
+- 🌍 Location: Leiden, The Netherlands
+- 🏠 Personal homepage: [www.jordibrw.nl](https://www.jordibrw.nl)
 - 💻 GitHub: [github.com/jordibrouwer](https://github.com/jordibrouwer)  
 - 📷 Aerial photography: [luchtlens.nl](https://www.luchtlens.nl)  
 
