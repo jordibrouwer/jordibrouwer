@@ -1,6 +1,6 @@
 # Hi, I'm Jordi Brouwer 👋
 
-I'm an enthusiastic hobbyist from Leiden (NL) who loves tinkering with tech. With a strong focus on **automation**, self‑hosting, and practical solutions, just for fun.. I enjoy working on projects where infrastructure, scripting, and home automation come together – and I combine that with a strong passion for aerial photography. Most of what you'll find here are small experiments, random ideas, and tools I built to make things a bit easier (or just because I can 😄).
+I'm an enthusiastic hobbyist from Leiden (NL) who loves tinkering with tech. With a strong focus on **automation**, self‑hosting, and practical solutions, just for fun.. I enjoy working on projects where infrastructure, scripting, and home automation come together – and I combine that with a strong passion for (aerial) photography. Most of what you'll find here are small experiments, random ideas, and tools I built to make things a bit easier (or just because I can 😄).
 
 ---
 
@@ -31,7 +31,7 @@ With Luchtlens, I capture Leiden and its surroundings from above, showing famili
 - 🔧 Maintaining and expanding my self‑hosted environment (UnRaid, Docker containers, backups).
 - 🏠 Automating my home with Home Assistant and Ubiquiti networking gear.
 - 🤖 Experimenting with AI tools and API integrations to streamline daily workflows.
-- 📸 Building a growing collection of aerial photos and stories on Luchtlens, especially around Leiden. 
+- 📸 Building a growing collection of (aerial) photos and stories on Luchtlens, especially around Leiden. 
 
 ---
 
