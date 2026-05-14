@@ -6,7 +6,7 @@ I'm an enthusiastic hobbyist from Leiden (NL) who loves tinkering with tech. Wit
 
 ## About me
 
-- 🧑‍💻 Extensive experience with programming (Python, Coldfusion, ASP).
+- 🧑‍💻 Extensive experience with programming (Python, Javascript, HTML, Coldfusion).
 - 🖥️ Actively working with server management, UnRaid, Docker, and self‑hosted services.
 - 🌐 Interested in linux, networking, automation, and system integrations.
 - 📍 Based in Leiden, South Holland, The Netherlands.
