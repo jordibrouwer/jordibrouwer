@@ -37,7 +37,7 @@ With Luchtlens, I capture Leiden and its surroundings from above, showing famili
 
 ## Technologies & tools
 
-- 💻 **Languages**: Python, Bash/shell, YAML, SQL  
+- 💻 **Languages**: Python, Bash/shell, Javascript
 - 🐳 **Infra & hosting**: Docker, UnRaid, Linux, self‑hosted services  
 - 🌐 **Networking & home automation**: Ubiquiti, Home Assistant  
 - 🛠️ **Other**: API integrations, automation scripts, monitoring and logging  
