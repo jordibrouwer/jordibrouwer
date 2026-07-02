@@ -13,19 +13,6 @@ I'm an enthusiastic hobbyist from Leiden (NL) who loves tinkering with tech. Wit
 
 ---
 
-## Luchtlens – A different perspective
-
-Besides my work with computers, I run, for fun, **Luchtlens**, a personal project where I combine my love for drones and photography. 
-With Luchtlens, I capture Leiden and its surroundings from above, showing familiar places from a completely new perspective – from historic city centers and churches to parks, infrastructure and local landmarks. 
-
-- 🌍 Focus on Leiden and the Leiden region, with occasional flights elsewhere in the Netherlands. 
-- 🚁 Flying with modern camera drones to create high‑resolution photos, panoramas and short videos.   
-- 🎯 Goal: capturing places, moments and stories that you only truly see once you go up in the air.   
-
-🔗 Check out my work at **[luchtlens.nl](https://www.luchtlens.nl)**. 
-
----
-
 ## What I'm currently working on
 
 - 🔧 Maintaining and expanding my self‑hosted environment (UnRaid, Docker containers, backups).
