@@ -25,7 +25,7 @@ I'm an enthusiastic hobbyist from Leiden (NL) who loves tinkering with tech. Wit
 ## Technologies & tools
 
 - 💻 **Languages**: Python, Bash/shell, Javascript
-- 🐳 **Infra & hosting**: Docker, UnRaid, Linux, self‑hosted services  
+- 🐳 **Infra & hosting**: VPS, Docker, UnRaid, Linux, self‑hosted services  
 - 🌐 **Networking & home automation**: Ubiquiti, Home Assistant  
 - 🛠️ **Other**: API integrations, automation scripts, monitoring and logging  
 
@@ -45,6 +45,5 @@ I'm an enthusiastic hobbyist from Leiden (NL) who loves tinkering with tech. Wit
 - 🌍 Location: Leiden, The Netherlands
 - 🏠 Personal homepage: [jordibrw.nl](https://www.jordibrw.nl)
 - 💻 GitHub: [github.com/jordibrouwer](https://github.com/jordibrouwer)  
-- 📷 Aerial photography: [luchtlens.nl](https://www.luchtlens.nl)  
 
 Feel free to open an issue or reach out if something here interests you or if you have ideas for collaboration.
